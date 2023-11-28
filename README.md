@@ -1,5 +1,5 @@
 # Jenkins Pipeline
-## Pipeline in Jenkins - instructional
+## Pipeline in Jenkins - Instructional
 
 
 Jenkinsfile used in demonstration.  I developed this pipeline for teaching Groovy and Jenkins.
