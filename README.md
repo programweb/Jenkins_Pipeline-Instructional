@@ -1,8 +1,8 @@
 # Jenkins Pipeline
-## Pipeline in Jenkins - simple; I used for teaching Groovy and Jenkins
+## Pipeline in Jenkins - instructional
 
 
-Jenkinsfile used in demonstration
+Jenkinsfile used in demonstration.  I developed this pipeline for teaching Groovy and Jenkins.
 &nbsp;
 
 ![jenkinsfile](https://github.com/programweb/Jenkins_pipeline/assets/12736699/5d63cb97-4b1b-42a8-82c9-2f863a741c74)
